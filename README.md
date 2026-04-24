@@ -5,14 +5,18 @@
 
 A fun, interactive, and fully functional Word Search puzzle game built entirely in Python. This project generates dynamic word grids, places target words in multiple directions (horizontal, vertical, and diagonal), and challenges the player to find them all.
 
+---
+
 
 
 ## ✨ Features
 
 - **Dynamic Grid Generation:** Automatically generates a randomized grid of letters based on the provided word list.
-- **Multi-Directional Placement:** Words are cleverly hidden horizontally, vertically, and diagonally (forwards and backwards) to increase the challenge.
+- **Multi-Directional Placement:** Words are cleverly hidden horizontally, vertically, and diagonally to increase the challenge.
+- **🎮 Multiple Game Modes:** Test your skills in Solo mode, challenge a friend in 1v1 Local Multiplayer, or race against the clock against a Computer AI opponent!
+- **💾 Save & Resume:** Never lose your spot. The game saves your current grid state and score, allowing you to pick up exactly where you left off.
 - **Interactive Gameplay:** Play directly in your terminal/command prompt.
-- **Clean Code Architecture:** Written in clean, modular Python, making it easy to add new words or change the grid size.
+- **Clean Code Architecture:** Written in clean, modular Python, making it easy to add new words or expand the grid.
 
 ## 🛠️ Built With
 
