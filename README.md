@@ -24,3 +24,7 @@ A fun, interactive, and fully functional Word Search puzzle game built entirely 
 * **Environment:** Command Line / Terminal
 
 ---
+
+* **Text File How to get Started** (https://github.com/Ismailcyp/WordSearchGame-Python/blob/main/readmeproj.txt)
+* **Full Report** (https://github.com/Ismailcyp/WordSearchGame-Python/blob/main/programmin%20report.docx)
+* **Full Presentation** (https://github.com/Ismailcyp/WordSearchGame-Python/blob/main/code%20warriors%20ppt.pptx)
